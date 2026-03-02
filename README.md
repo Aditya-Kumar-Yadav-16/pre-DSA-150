@@ -477,209 +477,207 @@ Example:<br>
 Input: string = "abcabcbb"<br>
 Output: "abc"<br>
 
-Finding the Sum of Digits of a Number Until Zero
-Difficulty: Easy
-Topics: Basic Programming, Mathematical Computations
-Description: Write a program to repeatedly sum the digits of a number until the result is zero.
-Example:
-Input: number = 123
-Output: 6
-Explanation: Sum of digits is 1 + 2 + 3 = 6; sum of digits of 6 is 6 (which is a single digit).
+Finding the Sum of Digits of a Number Until Zero<br>
+Difficulty: Easy<br>
+Topics: Basic Programming, Mathematical Computations<br>
+Description: Write a program to repeatedly sum the digits of a number until the result is zero.<br>
+Example:<br>
+Input: number = 123<br>
+Output: 6<br>
+Explanation: Sum of digits is 1 + 2 + 3 = 6; sum of digits of 6 is 6 (which is a single digit).<br>
 
-Generating a Multiplication Table for a Range
-Difficulty: Easy
-Topics: Arrays, Basic Programming
-Description: Write a program to generate multiplication tables for numbers within a specified range.
-Example:
-Input: start = 2, end = 4
-Output:
+Generating a Multiplication Table for a Range<br>
+Difficulty: Easy<br>
+Topics: Arrays, Basic Programming<br>
+Description: Write a program to generate multiplication tables for numbers within a specified range.<br>
+Example:<br>
+Input: start = 2, end = 4<br>
+Output:<br>
 
-2 x 1 = 2   3 x 1 = 3   4 x 1 = 4  
-2 x 2 = 4   3 x 2 = 6   4 x 2 = 8  
-2 x 3 = 6   3 x 3 = 9   4 x 3 = 12  
-2 x 4 = 8   3 x 4 = 12  4 x 4 = 16  
-Calculating the Sum of a Series (1 + 1/2 + 1/3 + ... + 1/n)
-Difficulty: Medium
-Topics: Mathematical Computations
-Description: Write a program to calculate the sum of the series 1 + 1/2 + 1/3 + ... + 1/n up to the nth term.
-Example:
-Input: n = 4
-Output: 2.083333
-Explanation: Sum of the series is 1 + 1/2 + 1/3 + 1/4 ≈ 2.083333.
+2 x 1 = 2   3 x 1 = 3   4 x 1 = 4  <br>
+2 x 2 = 4   3 x 2 = 6   4 x 2 = 8  <br>
+2 x 3 = 6   3 x 3 = 9   4 x 3 = 12  <br>
+2 x 4 = 8   3 x 4 = 12  4 x 4 = 16  <br>
+Calculating the Sum of a Series (1 + 1/2 + 1/3 + ... + 1/n)<br>
+Difficulty: Medium<br>
+Topics: Mathematical Computations<br>
+Description: Write a program to calculate the sum of the series 1 + 1/2 + 1/3 + ... + 1/n up to the nth term.<br>
+Example:<br>
+Input: n = 4<br>
+Output: 2.083333<br>
+Explanation: Sum of the series is 1 + 1/2 + 1/3 + 1/4 ≈ 2.083333.<br>
 
-Finding All Pairs of Elements in an Array that Add Up to a Given Sum
-Difficulty: Medium
-Topics: Arrays, Hashing
-Description: Write a program to find all pairs of elements in an array whose sum equals a specified target.
-Example:
-Input: array = [1, 2, 3, 4, 5], target = 5
-Output: [(1, 4), (2, 3)]
-Explanation: Pairs that sum up to 5 are (1, 4) and (2, 3).
+Finding All Pairs of Elements in an Array that Add Up to a Given Sum<br>
+Difficulty: Medium<br>
+Topics: Arrays, Hashing<br>
+Description: Write a program to find all pairs of elements in an array whose sum equals a specified target.<br>
+Example:<br>
+Input: array = [1, 2, 3, 4, 5], target = 5<br>
+Output: [(1, 4), (2, 3)]<br>
+Explanation: Pairs that sum up to 5 are (1, 4) and (2, 3).<br>
 
-Generating a Diamond Pattern of Stars
-Difficulty: Medium
-Topics: Patterns, Basic Programming
-Description: Write a program to create a diamond pattern with stars of a given size.
-Example:
-Input: size = 5
-Output:
+Generating a Diamond Pattern of Stars<br>
+Difficulty: Medium<br>
+Topics: Patterns, Basic Programming<br>
+Description: Write a program to create a diamond pattern with stars of a given size.<br>
+Example:<br>
+Input: size = 5<br>
+Output:<br>
 
-  *  
- ***  
-*****  
- ***  
-  *  
-Counting the Number of Palindromic Substrings in a String
-Difficulty: Medium
-Topics: String Manipulation
-Description: Write a program to count how many palindromic substrings exist in a given string.
-Example:
-Input: string = "aaa"
-Output: 6
-Explanation: Palindromic substrings are "a", "a", "a", "aa", "aa", "aaa".
+  *  <br>
+ ***  <br>
+*****  <br>
+ ***  <br>
+  *  <br>
+Counting the Number of Palindromic Substrings in a String<br>
+Difficulty: Medium<br>
+Topics: String Manipulation<br>
+Description: Write a program to count how many palindromic substrings exist in a given string.<br>
+Example:<br>
+Input: string = "aaa"<br>
+Output: 6<br>
+Explanation: Palindromic substrings are "a", "a", "a", "aa", "aa", "aaa".<br>
 
-Generating a Matrix with Multiplication Table
-Difficulty: Easy
-Topics: Arrays, Matrix Operations
-Description: Write a program to generate a matrix where each element at position (i, j) is the product of i and j.
-Example:
-Input: size = 3
-Output:
+Generating a Matrix with Multiplication Table<br>
+Difficulty: Easy<br>
+Topics: Arrays, Matrix Operations<br>
+Description: Write a program to generate a matrix where each element at position (i, j) is the product of i and j.<br>
+Example:<br>
+Input: size = 3<br>
+Output:<br>
 
-1 2 3  
-2 4 6  
-3 6 9  
-Finding the GCD of Multiple Numbers
-Difficulty: Medium
-Topics: Mathematical Computations
-Description: Write a program to find the GCD (Greatest Common Divisor) of an array of numbers.
-Example:
-Input: array = [12, 24, 36]
-Output: 12
-Explanation: The GCD of 12, 24, and 36 is 12.
+1 2 3  <br>
+2 4 6  <br>
+3 6 9  <br>
+Finding the GCD of Multiple Numbers<br>
+Difficulty: Medium<br>
+Topics: Mathematical Computations<br>
+Description: Write a program to find the GCD (Greatest Common Divisor) of an array of numbers.<br>
+Example:<br>
+Input: array = [12, 24, 36]<br>
+Output: 12<br>
+Explanation: The GCD of 12, 24, and 36 is 12.<br>
 
-Finding the Sum of the First N Odd Numbers
-Difficulty: Easy
-Topics: Mathematical Computations
-Description: Write a program to calculate the sum of the first N odd numbers.
-Example:
-Input: N = 5
-Output: 25
-Explanation: Sum of the first 5 odd numbers (1 + 3 + 5 + 7 + 9) is 25.
+Finding the Sum of the First N Odd Numbers<br>
+Difficulty: Easy<br>
+Topics: Mathematical Computations<br>
+Description: Write a program to calculate the sum of the first N odd numbers.<br>
+Example:<br>
+Input: N = 5<br>
+Output: 25<br>
+Explanation: Sum of the first 5 odd numbers (1 + 3 + 5 + 7 + 9) is 25.<br>
 
-Finding the Number of Perfect Numbers Up to a Given Limit
-Difficulty: Medium
-Topics: Number Theory
-Description: Write a program to find how many perfect numbers exist up to a given limit.
-Example:
-Input: limit = 30
-Output: 1
-Explanation: There is only one perfect number (6) up to 30.
+Finding the Number of Perfect Numbers Up to a Given Limit<br>
+Difficulty: Medium<br>
+Topics: Number Theory<br>
+Description: Write a program to find how many perfect numbers exist up to a given limit.<br>
+Example:<br>
+Input: limit = 30<br>
+Output: 1<br>
+Explanation: There is only one perfect number (6) up to 30.<br>
 
-Finding the Largest Prime Factor of a Number
-Difficulty: Medium
-Topics: Number Theory
-Description: Write a program to find the largest prime factor of a given number.
-Example:
-Input: number = 28
-Output: 7
-Explanation: The prime factors of 28 are 2 and 7, with the largest being 7.
+Finding the Largest Prime Factor of a Number<br>
+Difficulty: Medium<br>
+Topics: Number Theory<br>
+Description: Write a program to find the largest prime factor of a given number.<br>
+Example:<br>
+Input: number = 28<br>
+Output: 7<br>
+Explanation: The prime factors of 28 are 2 and 7, with the largest being 7.<br>
 
-Generating a Matrix of Fibonacci Numbers
-Difficulty: Medium
-Topics: Arrays, Matrix Operations
-Description: Write a program to generate a matrix where each element is a Fibonacci number.
-Example:
-Input: size = 3
-Output:
+Generating a Matrix of Fibonacci Numbers<br>
+Difficulty: Medium<br>
+Topics: Arrays, Matrix Operations<br>
+Description: Write a program to generate a matrix where each element is a Fibonacci number.<br>
+Example:<br>
+Input: size = 3<br>
+Output:<br>
 
-1 1 2  
-3 5 8  
-13 21 34  
-Finding the Sum of the First N Prime Numbers
-Difficulty: Medium
-Topics: Prime Numbers, Mathematical Computations
-Description: Write a program to calculate the sum of the first N prime numbers.
-Example:
-Input: N = 4
-Output: 17
-Explanation: The sum of the first 4 prime numbers (2 + 3 + 5 + 7) is 17.
+1 1 2  <br>
+3 5 8  <br>
+13 21 34<br>  
+Finding the Sum of the First N Prime Numbers<br>
+Difficulty: Medium<br>
+Topics: Prime Numbers, Mathematical Computations<br>
+Description: Write a program to calculate the sum of the first N prime numbers.<br>
+Example:<br>
+Input: N = 4<br>
+Output: 17<br>
+Explanation: The sum of the first 4 prime numbers (2 + 3 + 5 + 7) is 17.<br>
 
-Checking for a Balanced Bracket Sequence
-Difficulty: Medium
-Topics: String Manipulation, Stack
-Description: Write a program to check if a given string with brackets is balanced.
-Example:
-Input: string = "{[()]}"
-Output: True
-Explanation: The brackets are balanced.
+Checking for a Balanced Bracket Sequence<br>
+Difficulty: Medium<br>
+Topics: String Manipulation, Stack<br>
+Description: Write a program to check if a given string with brackets is balanced.<br>
+Example:<br>
+Input: string = "{[()]}"<br>
+Output: True<br>
+Explanation: The brackets are balanced.<br>
 
-Finding the Sum of Numbers in a String
-Difficulty: Easy
-Topics: String Manipulation
-Description: Write a program to extract and sum all numbers present in a given string.
-Example:
-Input: string = "The numbers are 12 and 34"
-Output: 46
-Explanation: The sum of numbers 12 and 34 is 46.
+Finding the Sum of Numbers in a String<br>
+Difficulty: Easy<br>
+Topics: String Manipulation<br>
+Description: Write a program to extract and sum all numbers present in a given string.<br>
+Example:<br>
+Input: string = "The numbers are 12 and 34"<br>
+Output: 46<br>
+Explanation: The sum of numbers 12 and 34 is 46.<br>
 
-Finding the Longest Consecutive Sequence in an Array
-Difficulty: Medium
-Topics: Arrays, Hashing
-Description: Write a program to find the longest sequence of consecutive numbers in an array.
-Example:
-Input: array = [100, 4, 200, 1, 3, 2]
-Output: 4
-Explanation: The longest consecutive sequence is [1, 2, 3, 4].
+Finding the Longest Consecutive Sequence in an Array<br>
+Difficulty: Medium<br>
+Topics: Arrays, Hashing<br>
+Description: Write a program to find the longest sequence of consecutive numbers in an array.<br>
+Example:<br>
+Input: array = [100, 4, 200, 1, 3, 2]<br>
+Output: 4<br>
+Explanation: The longest consecutive sequence is [1, 2, 3, 4].<br>
 
-Generating a Matrix with a Spiral Pattern
-Difficulty: Medium
-Topics: Arrays, Matrix Operations
-Description: Write a program to generate a matrix filled with numbers in a spiral pattern.
-Example:
-Input: size = 3
-Output:
+Generating a Matrix with a Spiral Pattern<br>
+Difficulty: Medium<br>
+Topics: Arrays, Matrix Operations<br>
+Description: Write a program to generate a matrix filled with numbers in a spiral pattern.<br>
+Example:<br>
+Input: size = 3<br>
+Output:<br>
 
-1 2 3  
-8 9 4  
-7 6 5  
-Finding All Subsets of a Set
-Difficulty: Medium
-Topics: Combinatorics
-Description: Write a program to generate all possible subsets of a given set of numbers.
-Example:
-Input: set = [1, 2]
-Output: [[], [1], [2], [1, 2]]
-Explanation: The subsets of [1, 2] are the empty set, [1], [2], and [1, 2].
+1 2 3  <br>
+8 9 4  <br>
+7 6 5  <br>
+Finding All Subsets of a Set<br>
+Difficulty: Medium<br>
+Topics: Combinatorics<br>
+Description: Write a program to generate all possible subsets of a given set of numbers.<br>
+Example:<br>
+Input: set = [1, 2]<br>
+Output: [[], [1], [2], [1, 2]]<br>
+Explanation: The subsets of [1, 2] are the empty set, [1], [2], and [1, 2].<br>
 
-Checking for Perfect Squares in a Range
-Difficulty: Easy
-Topics: Mathematical Comput
+Checking for Perfect Squares in a Range<br>
+Difficulty: Easy<br>
+Topics: Mathematical Computations<br>
+Description: Write a program to check which numbers in a given range are perfect squares.<br>
+Example:<br>
+Input: start = 1, end = 10<br>
+Output: [1, 4, 9]<br>
+Explanation: Perfect squares between 1 and 10 are 1, 4, and 9.<br>
 
-ations
-Description: Write a program to check which numbers in a given range are perfect squares.
-Example:
-Input: start = 1, end = 10
-Output: [1, 4, 9]
-Explanation: Perfect squares between 1 and 10 are 1, 4, and 9.
+Finding the Sum of Diagonal Elements in a Matrix<br>
+Difficulty: Easy<br>
+Topics: Matrix Operations<br>
+Description: Write a program to calculate the sum of the diagonal elements in a square matrix.<br>
+Example:<br>
+Input: matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]<br>
+Output: 15<br>
+Explanation: The sum of the diagonal elements (1 + 5 + 9) is 15.<br>
 
-Finding the Sum of Diagonal Elements in a Matrix
-Difficulty: Easy
-Topics: Matrix Operations
-Description: Write a program to calculate the sum of the diagonal elements in a square matrix.
-Example:
-Input: matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-Output: 15
-Explanation: The sum of the diagonal elements (1 + 5 + 9) is 15.
-
-Finding the Second Smallest Number in an Array
-Difficulty: Easy
-Topics: Arrays
-Description: Write a program to find the second smallest number in an array.
-Example:
-Input: array = [12, 13, 1, 10, 34, 1]
-Output: 10
-Explanation: The second smallest number in the array is 10.
+Finding the Second Smallest Number in an Array<br>
+Difficulty: Easy<br>
+Topics: Arrays<br>
+Description: Write a program to find the second smallest number in an array.<br>
+Example:<br>
+Input: array = [12, 13, 1, 10, 34, 1]<br>
+Output: 10<br>
+Explanation: The second smallest number in the array is 10.<br>
 
 Generating Pascal’s Triangle Up to N Rows
 Difficulty: Medium
